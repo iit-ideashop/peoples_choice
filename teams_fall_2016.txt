@@ -1,0 +1,99 @@
+1A. Eat the (Food) Desert
+1B. Urban Agriculture to Revitalize NorthShore Downtown
+1C. Conservation for Community Development (Imani Village)
+1D. OutReach
+1E. Break the Barrier: Improving College Persistence
+1F. Trifecta
+2A: llinois Tech Sports Campus Revitalization
+2B: Science of Volleyball
+2C: Chicago Food Rescue
+2D: SPOON
+2E: HawkPool
+2F: Redesigning Illinois Tech’s Ethics Codes Collection
+3A. Coconut
+3B. Thirst Quenchers
+3C. Chaac
+3D. Team X
+3E. Damn the Dam
+4A. Water Works
+4B. Team P.E.
+4C. Sheet
+4D. Oasis by the Border
+4E. Crowned Cranes
+5A. SMHEC: Innovation Station
+5B. AGC: Making a Differentiation
+5C. CPL: YOUmediators
+5D. PNNM: Buttergly Haven
+5E. break OUT
+5F. Aerospace Kit
+5G. Photo + Video Editing
+5H. Discover Days
+5I. Skills Homework
+6A: Ethos Economic
+6B. AirBud
+6C. Pre-Fire Protector (PFP)
+6D. Ratrack
+6E. Beyond the Grid: Unbeaten Path Adventures
+6F. Go-To: A Platform to Help You Start Your Day
+6G. CPS Eat This: School Meals Need to Change
+7A. Elderly Memory
+7B. Improve Physical Abilities
+7C. Labor Protection
+7D. Air Bettys
+7E. Clean Crate
+8A. Tiny Turn Wrench
+8B. Cat Kingdom
+8C. Click & Go Bike Lock
+8D. Dish Rack
+8E. Sleep Guardian
+8F. Modulux
+8G. Laptop Guard
+8H. Portable Drawer
+8I. S-Lamp / ARMi Lamp
+8J. Soap Holder 2.0
+8K. Strong Box
+9A. Face Recognition
+9B. Trich
+9C. Smart Bar
+9D. Crime Rate
+9E. Mindset
+9F: Moisture Sensor
+9G. Noise
+9H. Looki
+9I. Clean TA
+9J: Penjem
+9K: DCG
+"10A. Transforming Energy, Transforming Lives"
+10B. WALLS R US
+10C. Smart Grids in Community Power Networks - Sargent+Lundy
+10D. Energy Efficiency Strategies for Chicago Buildings (ECA)
+10E. Modular Utility Tunnel Sensor
+10F. Energizer
+10G. Check Your Heat: Energy Consumption Analysis Tool
+11A. Ultra-High Resolution Light Microscopy Instrumentation
+11B: Techno-Economic Analysis of Battery Storage in Commercial
+Businesses
+11C: Developing an Antimater Gravity Interferometer
+11D: Sustainable+ Affordable Nutrition via Kinetic Hydroponics
+11E: Nuke Squad
+11F: Therapy Bed
+12A. Scrumptious
+12B. Steap
+12C. ALT+W
+12D. Tinkerbox
+12E. Medivault
+12F. User-Friendly Packaging
+12G: LifeSync
+13A. Energy + Space: A Hybrid Energy Solution
+13B. MasterSwitch: Take Your Power Back
+13C. Clear Eyes: Saving Lives by Checking Eyes
+13D. Project Suburbanite: From Cars to Trains
+13E. Chow Town: Delivering Food Security
+13F. H2-oh!: Water Saving Essentials
+14A: Vehicle Systems Innovation Team 1
+14B: Vehicle Systems Innovation Team 2
+14C: Vehicle Systems Innovation Team 3
+14D: Innovating Motor Design: Creating Motor Test Platforms
+14E: Dev. Power-Take Off Equipt. for International Development
+14F: Developing a Suburban Metropolitan Area Rapid Transit Plan
+14G. Permacago: Stormwater Solutions for Tomorrow

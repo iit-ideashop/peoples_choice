@@ -5,7 +5,7 @@ pass_sound = base+'\\Pass.wav'
 fail_sound = base+'\\Fail.wav'
 valid_facilities = [16,192]
 #Newline delimited team list
-infile="teams_spring_2016.txt"
+infile="teams_fall_2016.txt"
 
 #This stays private!
 #Set of hashes that can vote unlimited number of times
