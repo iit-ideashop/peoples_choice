@@ -9,7 +9,7 @@
 2C: Chicago Food Rescue
 2D: SPOON
 2E: HawkPool
-2F: Redesigning Illinois Tech’s Ethics Codes Collection
+2F: Redesigning Illinois Tech's Ethics Codes Collection
 3A. Coconut
 3B. Thirst Quenchers
 3C. Chaac
@@ -63,7 +63,7 @@
 9I. Clean TA
 9J: Penjem
 9K: DCG
-"10A. Transforming Energy, Transforming Lives"
+10A. Transforming Energy, Transforming Lives
 10B. WALLS R US
 10C. Smart Grids in Community Power Networks - Sargent+Lundy
 10D. Energy Efficiency Strategies for Chicago Buildings (ECA)
@@ -71,8 +71,7 @@
 10F. Energizer
 10G. Check Your Heat: Energy Consumption Analysis Tool
 11A. Ultra-High Resolution Light Microscopy Instrumentation
-11B: Techno-Economic Analysis of Battery Storage in Commercial
-Businesses
+11B: Techno-Economic Analysis of Battery Storage in Commercial Businesses
 11C: Developing an Antimater Gravity Interferometer
 11D: Sustainable+ Affordable Nutrition via Kinetic Hydroponics
 11E: Nuke Squad

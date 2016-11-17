@@ -18,7 +18,9 @@ class View(Frame):
         scrollbar.pack( side = RIGHT, fill=Y )
         self.mylist = Listbox(self, yscrollcommand = scrollbar.set )
         with open(kwargs['infile'], newline='') as dfile:
-            for line in dfile.readlines():
+            #slines = sorted(dfile.readlines())
+            slines = dfile.readlines()
+            for line in slines:
                 self.mylist.insert(END, line.strip())
 
         self.mylist.pack( side = BOTTOM, fill = BOTH, expand = 1 )
